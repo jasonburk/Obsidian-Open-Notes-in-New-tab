@@ -1,0 +1,10 @@
+{
+    "id": "open-in-new-tab",
+    "name": "Open Notes in New Tab",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Forces all notes to open in a new tab.",
+    "author": "Jason",
+    "authorUrl": "https://grepjason.sh",
+    "isDesktopOnly": false
+}
